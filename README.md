@@ -26,7 +26,7 @@ The most important chapters of the ROS tutorials page are the following:
   * 3
   * 5
 
-## ROS Version/Installation
+## ROS Installation
 Currently for ROS1, ROS Noetic is recommended. ROS Noetic can be installed in a variety of different operating systems. The [ROS Installation](https://wiki.ros.org/noetic/Installation) page offers detailed instructions. The easiest route is with Ubuntu (20.04) or Debian (10).
 
 # Exercises
