@@ -30,6 +30,6 @@ The most important chapters of the ROS tutorials page are the following:
 Currently for ROS1, ROS Noetic is recommended. ROS Noetic can be installed in a variety of different operating systems. The [ROS Installation](https://wiki.ros.org/noetic/Installation) page offers detailed instructions. The easiest route is with Ubuntu (20.04) or Debian (10).
 
 # Exercises
-[Exercise1: Creating a rosbag](./exercises/ex1.md)
-[Exercise2: Processing Images](./exercises/ex2.md)
-[Exercise3: Sensor fusion](./exercises/ex3.md)
+* [Exercise1: Creating a rosbag](./exercises/ex1.md)
+* [Exercise2: Processing Images](./exercises/ex2.md)
+* [Exercise3: Sensor fusion](./exercises/ex3.md)
